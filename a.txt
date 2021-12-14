@@ -1,0 +1,10 @@
+java -jar MCBOT.jar ThaBetter_SMP.aternos.me:25565 756 botjoiner 30000 100000
+
+
+
+
+java -jar MCBOT.jar ReCoiiLz18070.aternos.me:25565 756 botjoiner 30000 100000
+
+
+
+java -jar MCBOT.jar ult10.falix.gg:38508 756 botjoiner 30000 100000
